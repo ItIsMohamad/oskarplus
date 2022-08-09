@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/oskarplus/static/css/main.073c9b0a.css",
-    "main.js": "/oskarplus/static/js/main.55f2c5b9.js",
+    "main.css": "/oskarplus/static/css/main.cf6101d0.css",
+    "main.js": "/oskarplus/static/js/main.f1c315ca.js",
     "static/js/787.145131c9.chunk.js": "/oskarplus/static/js/787.145131c9.chunk.js",
+    "static/media/road.jpg": "/oskarplus/static/media/road.924b23752081fe183229.jpg",
+    "static/media/airplane.jpg": "/oskarplus/static/media/airplane.b5734f5da6e2a38d2c97.jpg",
+    "static/media/city.jpg": "/oskarplus/static/media/city.3637159593a42c8aa2ff.jpg",
+    "static/media/globe.png": "/oskarplus/static/media/globe.d2a1f264524746743cce.png",
+    "static/media/tag.png": "/oskarplus/static/media/tag.6ad1417302f9e2197e6e.png",
     "static/media/logo.svg": "/oskarplus/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/oskarplus/index.html",
-    "main.073c9b0a.css.map": "/oskarplus/static/css/main.073c9b0a.css.map",
-    "main.55f2c5b9.js.map": "/oskarplus/static/js/main.55f2c5b9.js.map",
+    "main.cf6101d0.css.map": "/oskarplus/static/css/main.cf6101d0.css.map",
+    "main.f1c315ca.js.map": "/oskarplus/static/js/main.f1c315ca.js.map",
     "787.145131c9.chunk.js.map": "/oskarplus/static/js/787.145131c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.55f2c5b9.js"
+    "static/css/main.cf6101d0.css",
+    "static/js/main.f1c315ca.js"
   ]
 }
